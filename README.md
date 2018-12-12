@@ -26,9 +26,14 @@ Set your Neo4j connection string and credentials in `.env`. For example:
 *.env*
 
 ```
-NEO4J_URI=bolt://localhost:7687
-NEO4J_USER=neo4j
-NEO4J_PASSWORD=letmein
+NEO4J_URI_LOCAL=bolt://localhost:7687
+NEO4J_USER_LOCAL=neo4j
+NEO4J_PASSWORD_LOCAL=letmein
+
+NEO4J_URI_PRODUCTION=bolt://myurltosomehostlikeamazon.com:7687
+NEO4J_USER_PRODUCTION=neo4j
+NEO4J_PASSWORD_PRODUCTION=supersecretpasswordgoeshere
+GRAPHQL_URI_PRODUCTION=https://myurltosomehostlikeamazon.com/graphql
 ```
 
 Sample User Data Shape:
