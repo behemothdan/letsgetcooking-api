@@ -45,7 +45,7 @@ expiresIn: 7200
 idToken: "eyJxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 idTokenPayload:
 at_hash: "ogsgfdsjfghjfdgsqZwg"
-aud: "0gFgasdfgjjkldgjdfslXISlvb6wGrO"
+aud: "0gFgasdfgxxxxxxxxxxslXISlvb6wGrO"
 email: "gray.daniel@gmail.com"
 email_verified: true
 exp: 1536253986
@@ -55,9 +55,9 @@ given_name: "Daniel"
 iat: 1xxxxxxxxxxxxxx6
 iss: "https://letsgetcooking.auth0.com/"
 locale: "en"
-name: "Daniel Gray"
-nickname: "gray.daniel"
-nonce: "XRtmagP4YVY1w7rJBbGNcdNZ7LpXit56"
+name: "BehemothDan"
+nickname: "behemothdan"
+nonce: "XRtmagP4YVY1xxxxxxxxxxxxxxxxxdNZ7LpXit56"
 picture: "https://lh6.googleusercontent.com/-h695sfcceSE/AAAAAAAAAAI/AAAAAAAAF1Y/b03905L_QFU/photo.jpg"
 sub: "google-oauth2|114xxxxxxxxxxxxxxxxxxx59"
 updated_at: "2025-09-06T07:13:02.432Z"
